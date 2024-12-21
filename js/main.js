@@ -28,7 +28,7 @@ const products = [
     title: "Chestnut Brown",
     price: 74.9,
     image:
-      "https://pangaia.com/cdn/shop/products/Recycled-Cashmere-Core-Hoodie-Chestnut-Brown-Male-1.jpg?v=1663947464&width=1426",
+      "https://pangaia.com/cdn/shop/files/365_Hoodie_Reflect_Blue_Womens-023_2b3c1f27-ec4f-4e28-a3c0-f620ba677676.png?crop=center&height=559&v=1726065156&width=420",
   },
   {
     id: 4,
